@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>TO-DO-LIST</b></h3>
+  <h3><b>Test Review</b></h3>
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-Do-List<a name="about-project"></a>
+# 📖 Test Review<a name="about-project"></a>
 
-**To-Do-List** is a program made with Html, Css and Javascript. It enables one to add and remove a task
+**Test Review** is a program made with Html, Css and Javascript. It enables one to add and remove a task
 
 ## 🛠 Built With <a name="built-with"></a>
 
